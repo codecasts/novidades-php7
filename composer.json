@@ -1,0 +1,14 @@
+{
+    "name": "codecasts/serie-php7",
+    "description": "Projeto da Série \"Novidades do PHP 7\"",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Hernandes",
+            "email": "diego@hernandev.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
